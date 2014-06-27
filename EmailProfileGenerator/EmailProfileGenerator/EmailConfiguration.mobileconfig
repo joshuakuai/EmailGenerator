@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>EmailAccountDescription</key>
+			<string>RadiusOnlineEmail</string>
+			<key>EmailAccountType</key>
+			<string>EmailTypeIMAP</string>
+			<key>IncomingMailServerAuthentication</key>
+			<string>EmailAuthPassword</string>
+			<key>IncomingMailServerHostName</key>
+			<string>radiusccc.radiusccc.com</string>
+			<key>IncomingMailServerPortNumber</key>
+			<integer>993</integer>
+			<key>IncomingMailServerUseSSL</key>
+			<true/>
+			<key>OutgoingMailServerAuthentication</key>
+			<string>EmailAuthPassword</string>
+			<key>OutgoingMailServerHostName</key>
+			<string>radiusccc.radiusccc.com</string>
+			<key>OutgoingMailServerPortNumber</key>
+			<integer>465</integer>
+			<key>OutgoingMailServerUseSSL</key>
+			<true/>
+			<key>PayloadDescription</key>
+			<string>Configures Email settings</string>
+			<key>PayloadDisplayName</key>
+			<string>RadiusOnlineEmail</string>
+			<key>PayloadIdentifier</key>
+			<string>kuaimatoMacBook-Pro.local.7FE0CDDD-DBD0-476C-A1B3-F69B0C8F171B.com.apple.mail.managed.A51ED2D0-A5C4-4563-AD5D-0C34A9E03E0B</string>
+			<key>PayloadType</key>
+			<string>com.apple.mail.managed</string>
+			<key>PayloadUUID</key>
+			<string>A51ED2D0-A5C4-4563-AD5D-0C34A9E03E0B</string>
+			<key>PayloadVersion</key>
+			<real>1</real>
+			<key>SMIMEEnablePerMessageSwitch</key>
+			<false/>
+			<key>disableMailRecentsSyncing</key>
+			<false/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Configurate Email Setting</string>
+	<key>PayloadDisplayName</key>
+	<string>Email Configuration</string>
+	<key>PayloadIdentifier</key>
+	<string>kuaimatoMacBook-Pro.local.7FE0CDDD-DBD0-476C-A1B3-F69B0C8F171B</string>
+	<key>PayloadOrganization</key>
+	<string>Radius Online</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>61166FB9-70A8-4BAB-AB2C-2D98C075E000</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
